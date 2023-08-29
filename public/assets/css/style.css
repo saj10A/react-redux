@@ -4,3 +4,7 @@ body {
     direction: rtl;
     background-color: #6abcff;
 }
+
+.dir_ltr {
+    direction: ltr;
+}
